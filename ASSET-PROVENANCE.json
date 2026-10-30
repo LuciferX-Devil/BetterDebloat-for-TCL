@@ -1,0 +1,146 @@
+[
+  {
+    "asset": "launcher/app/src/main/assets/build-package/wallpaper.jpg",
+    "sha256": "d79dc81b63533cb6aac935449a24a6c7274ffccd70d8b70732fa6973d556a9c4",
+    "upstream_path": "themes/glass/wallpaper.jpg",
+    "matches_upstream": false
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/aurora/wallpaper.jpg",
+    "sha256": "99ef30a1c2c895e94b805b8084d0b44357b8cebcf8ca6435ddf2c20445b6c9ef",
+    "upstream_path": "themes/aurora/wallpaper.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/dussehra/wallpaper.jpg",
+    "sha256": "097ba451946513668f7dbce5ff781449cbb256231c61a906c987de4acb345d02",
+    "upstream_path": "themes/dussehra/wallpaper.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/glass/wallpaper.jpg",
+    "sha256": "d79dc81b63533cb6aac935449a24a6c7274ffccd70d8b70732fa6973d556a9c4",
+    "upstream_path": "themes/glass/wallpaper.jpg",
+    "matches_upstream": false
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/ruska/wallpaper.jpg",
+    "sha256": "a0333b2343dc21deb60819372d885941c4661420c1a2b5871bcc20edbb14adf1",
+    "upstream_path": "themes/ruska/wallpaper.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/sweden/wallpapers/001.jpg",
+    "sha256": "2d2548f6cb86a33099d09042911e7a70058e2a0dbb830970279dca577dceeee7",
+    "upstream_path": "themes/sweden/wallpapers/001.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/sweden/wallpapers/002.jpg",
+    "sha256": "3933992ce5c91913841231bd34961bd207e1dd9bde3213cf71c2841f280965f1",
+    "upstream_path": "themes/sweden/wallpapers/002.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/sweden/wallpapers/003.jpg",
+    "sha256": "997d0c6f2d2bedf3b678906e8274515f13b884f5d3cd40007c0d2138da0186ba",
+    "upstream_path": "themes/sweden/wallpapers/003.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/01-dusk-peaks.jpg",
+    "sha256": "4e886e833ef08fde1d4417c7506d58982f908944698bc8707f0e667b6ebe2f95",
+    "upstream_path": "themes/scenes/wallpapers/01-dusk-peaks.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/02-golden-coast.jpg",
+    "sha256": "639a15223b26f8260358c1a3c4aa09f61bd249def7dfb20daca2327089d40881",
+    "upstream_path": "themes/scenes/wallpapers/02-golden-coast.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/03-moon-lake.jpg",
+    "sha256": "bfca7e71b0c215578ef29f2c40b340b57039a084c5f05a6fc5f5bf7e571896d4",
+    "upstream_path": "themes/scenes/wallpapers/03-moon-lake.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/04-aurora.jpg",
+    "sha256": "392de2a03571a498419994fdea3132bc594097295d59e8c315ef2bb51237d84c",
+    "upstream_path": "themes/scenes/wallpapers/04-aurora.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/05-dunes.jpg",
+    "sha256": "74d0b962604248962f48a988e78d2ada7a7e9f6f2c38cc6811773a7c1f2b4dd5",
+    "upstream_path": "themes/scenes/wallpapers/05-dunes.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/06-above-the-clouds.jpg",
+    "sha256": "152a95c3e83f2567ba5ceb806c7d0aef1e35bc21bf8b2b04fbc61c025e104ef3",
+    "upstream_path": "themes/scenes/wallpapers/06-above-the-clouds.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/07-mirror-lake.jpg",
+    "sha256": "554c2fbd2be3703e29a8bf2343fe7e6e68e1a9d6300ac7c91d4487505fddcd42",
+    "upstream_path": "themes/scenes/wallpapers/07-mirror-lake.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/08-tea-hills.jpg",
+    "sha256": "ed3cd5fa7496e9349f374083eb8b958219600c3fae189d1e99767e836e284516",
+    "upstream_path": "themes/scenes/wallpapers/08-tea-hills.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/09-alpenglow.jpg",
+    "sha256": "aeee1b5b88061bcfd12a04b878db6d84a2380470ef698b490226dbd3d4cc4db6",
+    "upstream_path": "themes/scenes/wallpapers/09-alpenglow.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/10-city-lights.jpg",
+    "sha256": "4b5d6dd58b03c74573ec40fb5ebfec6e381b782b090c8b367c3f051d4c009b88",
+    "upstream_path": "themes/scenes/wallpapers/10-city-lights.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/11-balloon-sunrise.jpg",
+    "sha256": "8c7e1b224ba6c01b7b727aef4094acab905cbb3373b00102b8ea342451b4196b",
+    "upstream_path": "themes/scenes/wallpapers/11-balloon-sunrise.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/12-monsoon.jpg",
+    "sha256": "81020775042bb7a69ec742959b5ca9217401696c8f9e13c434ef00f1004ca23f",
+    "upstream_path": "themes/scenes/wallpapers/12-monsoon.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/13-lighthouse-coast.jpg",
+    "sha256": "91d4d02b0010bbcdbad03d03370c48333922071c79d1310774128495beccf658",
+    "upstream_path": "themes/scenes/wallpapers/13-lighthouse-coast.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/assets/themes/scenes/wallpapers/14-autumn-valley.jpg",
+    "sha256": "60ac1364a0f50e8efb7f791b713d17a34b6022158769cbaee09de21326a8ba08",
+    "upstream_path": "themes/scenes/wallpapers/14-autumn-valley.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/res/drawable-nodpi/banner.jpg",
+    "sha256": "839c222dd3b2408f955e9af2b1fd5c22314c8873768b55d941c743dcc49f89ef",
+    "upstream_path": "launcher/app/src/main/res/drawable-nodpi/banner.jpg",
+    "matches_upstream": true
+  },
+  {
+    "asset": "launcher/app/src/main/res/mipmap-xhdpi/ic_launcher.jpg",
+    "sha256": "6460d3b890488434417f50633b843af88914bdd82fb8f8c5488046e59c3af100",
+    "upstream_path": "launcher/app/src/main/res/mipmap-xhdpi/ic_launcher.jpg",
+    "matches_upstream": true
+  }
+]
